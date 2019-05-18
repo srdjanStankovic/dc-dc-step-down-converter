@@ -6,6 +6,7 @@ This module convert DC input from range (7.5-45)V DC to 5V DC output. It is base
 Detail view with schematic and all layouts are prestened in [/DC-DC Step-Down Converter/DC-DC Step-Down Converter.PDF](https://github.com/srdjanStankovic/dc-dc-step-down-converter/blob/master/DC-DC%20Step-Down%20Converter/DC-DC%20Step-Down%20Converter.PDF)
 
 ![Capture](https://user-images.githubusercontent.com/8199494/57972229-d90c5f00-7997-11e9-932b-e24429e63294.PNG)
+![Robotic-RPI](https://user-images.githubusercontent.com/8199494/57972239-f3463d00-7997-11e9-8682-8945a19ab972.gif)
 
 # License
 
