@@ -3,9 +3,9 @@
 This module convert DC input from range (7.5-45)V DC to 5V DC output. It is based on [TPS54340](http://www.ti.com/lit/ds/symlink/tps54340.pdf). Originally it is made for accumulator battery powered RaspbreyPi.
 
 # Board Overview
-Detail view with schematic and all layouts are prestened in [Step-Down DC-DC Converter/Project Outputs for Step-Down DC-DC Converter/Step-Down DC-DC Converter.PDF](https://gitlab.com/srki/dc-dc-module/blob/master/Step-Down%20DC-DC%20Converter/Project%20Outputs%20for%20Step-Down%20DC-DC%20Converter/Step-Down%20DC-DC%20Converter.PDF)
+Detail view with schematic and all layouts are prestened in [/DC-DC Step-Down Converter/DC-DC Step-Down Converter.PDF](https://github.com/srdjanStankovic/dc-dc-step-down-converter/blob/master/DC-DC%20Step-Down%20Converter/DC-DC%20Step-Down%20Converter.PDF)
 
-![Capture](/uploads/961bb2953e90a30f4aa98ae3dfd7958e/Capture.PNG)
+![Capture](https://user-images.githubusercontent.com/8199494/57972229-d90c5f00-7997-11e9-932b-e24429e63294.PNG)
 
 # License
 
