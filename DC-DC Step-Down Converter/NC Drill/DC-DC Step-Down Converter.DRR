@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: DC-DC Step-Down Converter.PcbDoc   18/05/2019  17:44:04
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : DC-DC Step-Down Converter.TXT
+EIA File   : DC-DC Step-Down Converter.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             14        PTH        2.24inch (56.83mm)
+T2      59mil (1.5mm)                                             Round             4         PTH        1.76inch (44.65mm)
+T3      79mil (2mm)                                               Round             4         PTH        1.89inch (47.93mm)
+T4      138mil (3.5mm)                                            Round             4         PTH        4.51inch (114.68mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              26
+
+Total Processing Time (hh:mm:ss) : 00:00:00
